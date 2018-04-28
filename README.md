@@ -1,7 +1,7 @@
 
 
 
-ShadowsocksR for Windows with login - by 某不愿透露姓名的大佬
+ShadowsocksR for Windows with login - 代传
 =======================
 
 Api相关代码在shadowsocks-csharp\shadowsocks-csharp\View\MenuViewController.cs的1247行
