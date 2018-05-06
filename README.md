@@ -1,12 +1,12 @@
 
 
 
-ShadowsocksR for Windows with login
+ShadowsocksR for Windows with login by ****
 =======================
 
-Api相关代码在shadowsocks-csharp\shadowsocks-csharp\View\MenuViewController.cs的1247行
+客户端：https://github.com/dumplin233/shadowsocks-csharp/releases
 
-代码：string ssr_url_all = jo["data"]["ssr_url_all"].ToString();
+面板：https://github.com/NimaQu/ss-panel-v3-mod_Uim/commits/ShadowsocksR-for-Windows-with-login-support
 
 [![Build Status]][Appveyor]
 
