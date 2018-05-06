@@ -15,7 +15,7 @@ ShadowsocksR for Windows with login by AAA
 
 面板：https://github.com/NimaQu/ss-panel-v3-mod_Uim/commits/ShadowsocksR-for-Windows-with-login-support
 
-爬虫模式介绍:只要用户中心有ssr://批量链接即可获取节点，无需更新面板（Uim版目前暂不支持，支持魔改版、魔改91vps版）
+爬虫模式介绍:只要用户中心有ssr://批量链接即可获取节点，无需更新面板（爬虫模式目前暂不支持Uim版，支持魔改版、魔改91vps版）
 例如：
  - 网址:http://example/ （注意：最后必须要有'/'）
  - 用户名:user
