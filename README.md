@@ -1,7 +1,7 @@
 
 
 
-ShadowsocksR for Windows with login by AAA
+ShadowsocksR for Windows with login by 朝阳群众
 =======================
 感谢朝阳群众，此项目所有工作均由朝阳群众完成，我只是个上传的
 
